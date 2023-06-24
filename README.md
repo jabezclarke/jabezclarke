@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jabezclarke
-- 👀 I’m interested in data science and python
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in data science and python - I recently obtained my PCAP (Python Certified Associate in Python Programming) certification
+- 🌱 I’m currently learning data science and machine learning
 - 📫 How to reach me - jabezclarke
 
 <!---
